@@ -1,6 +1,6 @@
 function save() {
   const email = document.getElementById("email").value;
-
+  
   // Save the email above email to local storage
 }
 
